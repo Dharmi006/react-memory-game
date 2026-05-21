@@ -25,4 +25,4 @@ npm run dev
 
 ## Live Demo
 
-Add your Vercel deployment link here later.
+https://react-memory-game-eosin.vercel.app
