@@ -1,0 +1,19 @@
+.Title p{
+    color: #b8860b;
+    font-family: "Acme";
+    margin-top: 0;
+    margin-left: 0;
+}
+.Title h2{
+    color: #b8860b;
+    font-family: "Acme";
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    
+}
